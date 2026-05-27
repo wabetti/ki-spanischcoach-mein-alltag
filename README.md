@@ -20,6 +20,7 @@ Dieser Workflow verarbeitet Fotos und Sprachmemos aus Telegram, analysiert sie m
 
 Dieser Workflow startet automatisch jeden Morgen, lädt die Wörter vom Vortag aus Google Sheets und erstellt daraus eine kurze Lernsession per Telegram.
 
+<img width="1344" height="711" alt="daily-lessons png" src="https://github.com/user-attachments/assets/504f1641-a5cc-4110-a402-db21b941c40d" />
 
 ## Funktionen
 

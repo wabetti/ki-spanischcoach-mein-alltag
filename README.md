@@ -14,7 +14,7 @@ Das Projekt besteht aus zwei n8n-Workflows:
 
 Dieser Workflow verarbeitet Fotos und Sprachmemos aus Telegram, analysiert sie mit KI und speichert relevante Lerninhalte in Google Sheets.
 
-<img width="1344" height="711" alt="daily-lessons png" src="https://github.com/user-attachments/assets/d107605b-9571-4fb3-ae3e-9e6567543b52" />
+<img width="1587" height="743" alt="transform-your-daily-life-into-spanish-lessons png" src="https://github.com/user-attachments/assets/cdd816f5-72ec-404f-89e2-a67a4aae5224" />
 
 ### 2. Tägliches Wiederholungssystem
 

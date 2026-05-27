@@ -6,6 +6,18 @@ Das System analysiert Fotos und Sprachmemos aus dem Alltag und erstellt daraus k
 
 ---
 
+## Workflows
+
+Das Projekt besteht aus zwei n8n-Workflows:
+
+### 1. KI-Sprachcoach für den Alltag
+
+Dieser Workflow verarbeitet Fotos und Sprachmemos aus Telegram, analysiert sie mit KI und speichert relevante Lerninhalte in Google Sheets.
+
+### 2. Tägliches Wiederholungssystem
+
+Dieser Workflow startet automatisch jeden Morgen, lädt die Wörter vom Vortag aus Google Sheets und erstellt daraus eine kurze Lernsession per Telegram.
+
 ## Funktionen
 
 ### Alltagssituationen analysieren

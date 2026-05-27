@@ -2,7 +2,7 @@
 
 Ein KI-gestütztes Lernsystem, das echte Alltagssituationen automatisch in personalisierte Spanischlektionen verwandelt.
 
-Das System analysiert Fotos und Sprachmemos aus dem Alltag und erstellt daraus kontextbasierte Lerninhalte, Übersetzungen und tägliche Wiederholungen für nachhaltiges Langzeitlernen.
+Das System analysiert Fotos und Sprachmemos aus dem Alltag und erstellt daraus kontextbasierte Lerninhalte, Übersetzungen und tägliche Wiederholungen für nachhaltiges Langzeitlernen-  mit genau den Wörtern und Ausdrücken, die einem im eigenen Alltag tatsächlich begegnen.
 
 ---
 

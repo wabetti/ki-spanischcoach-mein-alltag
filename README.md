@@ -5,9 +5,6 @@ Ein KI-gestütztes Lernsystem, das echte Alltagssituationen automatisch in perso
 Das System analysiert Fotos und Sprachmemos aus dem Alltag und erstellt daraus kontextbasierte Lerninhalte, Übersetzungen und tägliche Wiederholungen für nachhaltiges Langzeitlernen.
 
 ---
-# KI Spanischcoach für den Alltag
-
-Automatisiertes KI-Sprachlern-System mit n8n, Telegram, OpenAI und Google Sheets.
 
 ## Features
 

@@ -1,4 +1,4 @@
-# KI-Sprachcoach – Mein Alltag
+# Lerne genau die Wörter, die du morgen wirklich brauchst
 
 Ein KI-gestütztes Lernsystem, das echte Alltagssituationen automatisch in personalisierte Spanischlektionen verwandelt.
 

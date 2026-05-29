@@ -154,6 +154,6 @@ Geplante Erweiterungen:
 
 Das Ziel des Projekts ist:
 
-> Spanisch direkt aus echten Alltagssituationen zu lernen – nicht aus künstlichen Schulbuchübungen.
+> Spanisch direkt aus persönlichen Alltagssituationen zu lernen.
 
 Der eigene Alltag wird automatisch zu einer personalisierten Sprachlektion.
